@@ -14,7 +14,8 @@ We began our work using Jupyter Notebook and then converted some of our visualiz
 | [Courtney](https://www.kaggle.com/code/courtneyhoppus/courtneyresubmission?scriptVersionId=131529543) | RandomForestClassifier | 0.78947 |
 | [Kristin](https://www.kaggle.com/code/kristinjue/kristin-s-updated-titanic-kaggle-submission) | DecisionTreeClassifier | 0.73923 |
 | [Brandon](https://www.kaggle.com/code/brandondombrowsky/ifyoujumpijump-jackdawson?scriptVersionId=133195636) | RandomForestClassifier | 0.75837 |
-| [Zaya](https://www.kaggle.com/code/ariunzayaerdenebileg/zayatitanic4)  | LogisticRegression | 0.76794 |
+| [Zaya](https://www.kaggle.com/code/ariunzayaerdenebileg/zayatitanic4) | LogisticRegression | 0.76794 |
+| [Scott](https://www.kaggle.com/code/cuckeroni/fork-of-scott-s-titanic-predictions/edit/run/132541946) | RandomForestClassifier | 0.77511 |
  
 # Team
 - Brandon Dombrowsky, Technical Project Manager
